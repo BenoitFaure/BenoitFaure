@@ -7,4 +7,4 @@
     - [benoit.faure@mines-ales.org](mailto:benoit.faure@mines-ales.org)
 
 - Mines Ales repository:
-    - [BenoitFaureIMT](www.github.com/BenoitFaureIMT)
+    - [BenoitFaureIMT](https://www.github.com/BenoitFaureIMT)
