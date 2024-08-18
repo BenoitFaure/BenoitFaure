@@ -4,7 +4,7 @@
 
 - Contact me:
     - [in/benoit-faure](https://linkedin.com/in/benoit-faure/)
-    - [benoit.faure@mines-ales.org](mailto:benoit.faure@mines-ales.org)
+    - [benoit.faure.cesar@gmail.com](mailto:benoit.faure.cesar@gmail.com)
 
 - Mines Ales repository:
     - [BenoitFaureIMT](https://github.com/BenoitFaureIMT)
