@@ -18,8 +18,8 @@
 
 &nbsp; <samp><b>Name:</b> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Benoit Faure</samp><br />
 &nbsp; <samp><b>Occupation:</b> &nbsp;ML Engineer @ ASML</samp><br />
-&nbsp; <samp><b>Status:</b> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Coding</samp><br />
-&nbsp; <samp><b>Location:</b> &nbsp;&nbsp;&nbsp;Utrecht, Netherlands </samp><br />
+&nbsp; <samp><b>Status:</b> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Reading papers with some tea</samp><br />
+&nbsp; <samp><b>Location:</b> &nbsp;&nbsp;&nbsp;Utrecht, Netherlands ⛅️</samp><br />
 
 <br />
 &nbsp; <samp><b>🧪 Stats</b></samp><br />
@@ -49,7 +49,7 @@
 
 <br />
 &nbsp; <samp><b>🎓 Education</b></samp><br />
-&nbsp; <samp><b>Personal | Ongoing | 24y</b></samp><br />
+&nbsp; <samp><b>Personal | Ongoing | 25y</b></samp><br />
 &nbsp; <samp>Learning: <img src="https://readme-typing-svg.demolab.com?size=14&pause=1000&color=E6EDF3&vCenter=true&width=250&height=20&lines=Rust;Graph+Neural+Networks;AI+Agents;How+to+make+good+soup" align="center" /></samp><br />
 &nbsp; <samp>[#........................] 1%</samp>
 
