@@ -5,7 +5,7 @@ import requests
 from datetime import date, datetime
 
 # --- CONFIG ---
-BIRTH_DATE = date(1999, 5, 20)
+BIRTH_DATE = date(2001, 3, 16)
 LOCATION = "Utrecht"
 
 def get_weather_info():
