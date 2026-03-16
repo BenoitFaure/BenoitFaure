@@ -29,8 +29,8 @@
 
 <br />
 &nbsp; <samp><b>📡 Contact</b></samp><br />
-&nbsp; <samp>Mail: <a href="mailto:benoit.faure.cesar+github@gmail.com">benoit.faure.cesar@gmail.com</a></samp><br />
-&nbsp; <samp>LinkedIn: <a href="https://linkedin.com/in/benoit-faure">in/benoit-faure</a></samp>
+&nbsp; <samp>Mail: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="mailto:benoit.faure.cesar+github@gmail.com">benoit.faure.cesar@gmail.com</a></samp><br />
+&nbsp; <samp>LinkedIn: &nbsp;<a href="https://linkedin.com/in/benoit-faure">in/benoit-faure</a></samp>
 
 <br /><br />
 &nbsp; <samp><b>💽 Installed Modules</b></samp><br />
@@ -44,7 +44,7 @@
 </samp>
 
 &nbsp; &nbsp; <samp><b>Installing</b></samp><br />
-&nbsp; &nbsp; <samp>Agentic AI [######..............] 37.5%</samp><br />
+&nbsp; &nbsp; <samp>Agentic AI &nbsp;[######..............] 37.5%</samp><br />
 &nbsp; &nbsp; <samp>NXE Scanner [####................] 13.4%</samp>
 
 <br />
