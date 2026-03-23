@@ -10,8 +10,12 @@ LOCATION = "Utrecht"
 
 def get_weather_info():
     try:
-        emoji = requests.get(f"https://wttr.in/{LOCATION}?format=%c", timeout=5).text.strip()
-        cond = requests.get(f"https://wttr.in/{LOCATION}?format=%C", timeout=5).text.strip().lower()
+        emoji = (
+            requests.get(f"https://wttr.in/{LOCATION}?format=%c", timeout=5)
+            .content.decode("utf-8", "ignore").strip())
+        cond = (
+            requests.get(f"https://wttr.in/{LOCATION}?format=%C", timeout=5)
+            .content.decode("utf-8", "ignore").strip().lower())
         category = "clear"
         if any(x in cond for x in ["rain", "drizzle", "snow"]): category = "rainy"
         elif "cloud" in cond: category = "cloudy"
