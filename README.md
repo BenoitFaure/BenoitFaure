@@ -18,8 +18,8 @@
 
 &nbsp; <samp><b>Name:</b> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Benoit Faure</samp><br />
 &nbsp; <samp><b>Occupation:</b> &nbsp;ML Engineer @ ASML</samp><br />
-&nbsp; <samp><b>Status:</b> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Debugging by candlelight (it's an LED strip)</samp><br />
-&nbsp; <samp><b>Location:</b> &nbsp;&nbsp;&nbsp;Utrecht, Netherlands render failed: response missing current_condition array</samp><br />
+&nbsp; <samp><b>Status:</b> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Sitting on the balcony</samp><br />
+&nbsp; <samp><b>Location:</b> &nbsp;&nbsp;&nbsp;Utrecht, Netherlands ☀️</samp><br />
 
 <br />
 &nbsp; <samp><b>🧪 Stats</b></samp><br />
