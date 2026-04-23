@@ -18,8 +18,8 @@
 
 &nbsp; <samp><b>Name:</b> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Benoit Faure</samp><br />
 &nbsp; <samp><b>Occupation:</b> &nbsp;ML Engineer @ ASML</samp><br />
-&nbsp; <samp><b>Status:</b> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Hunting for NaN values in the tensor</samp><br />
-&nbsp; <samp><b>Location:</b> &nbsp;&nbsp;&nbsp;Utrecht, Netherlands ☀️</samp><br />
+&nbsp; <samp><b>Status:</b> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Burning through GPU credits</samp><br />
+&nbsp; <samp><b>Location:</b> &nbsp;&nbsp;&nbsp;Utrecht, Netherlands ⛅</samp><br />
 
 <br />
 &nbsp; <samp><b>🧪 Stats</b></samp><br />
